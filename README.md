@@ -1,24 +1,30 @@
-# awesome-fediverse
+# Awesome Fediverse 🛰✨😎
+
 A curated, collaborative list of awesome Fediverse resources
 
-## Fediverse Apps
+## Fediverse products
 
-- [Mastodon](https://joinmastodon.org)
+These products rule the fediverse.
+
+- [Mastodon](https://joinmastodon.org) - Ruby based twitter clone - Follow friends and discover new ones among more than 2M people. Publish anything you want: links, pictures, text, video. All on a platform that is community-owned and ad-free.
+- [PixelFed](https://pixelfed.org/) - PHP based instagram clone. A free and ethical photo sharing platform.
+- [Peertube](https://joinpeertube.org/) - Javascript based youtube clone. A decentralized video hosting network, based on free/libre software
 - [Matrix](https://matrix.org/)
+- [Prismo](https://gitlab.com/prismosuite/prismo) - A ruby based reddit clone. Federated link aggregation powered by ActivityPub.
 - [Plemora](https://pleroma.social/)
-- [Peertube](https://joinpeertube.org/)
-- [Diaspora](https://diasporafoundation.org/)
-- [WriteFriendly](https://writefreely.org/)
-- [Friendica](http://friendi.ca/)
-- [PixelFed](https://pixelfed.org/)
+- [Diaspora](https://diasporafoundation.org/) - Ruby based Facebook clone. 
+- [WriteFriendly](https://writefreely.org/) - Go based publihsing platform. WriteFreely is free and open source software for starting a minimalist, federated blog — or an entire community.
+- [Friendica](http://friendi.ca/) - PHP based facebook clone. Friendica is a decentralised communications platform that integrates social communication. Our platform links to independent social projects and corporate services.
 - [Hubzilla](https://hubzilla.org/)
-- [FunkWhale](https://funkwhale.audio/)
+- [FunkWhale](https://funkwhale.audio/) - Python based Grooveshark. A self-hosted tribute to Grooveshark.com.
 
 ## Protocols
 
+The fediverse is made up of a bunch of protocols. Below are the most used ones.
+
 - [ActivityPub](https://www.w3.org/TR/2018/REC-activitypub-20180123/) - The ActivityPub protocol is a decentralized social networking protocol based upon the [ActivityStreams] 2.0 data format. It provides a client to server API for creating, updating and deleting content, as well as a federated server to server API for delivering notifications and content.
-- [Litepub](https://litepub.social/litepub/) -LitePub is a suite of protocols which provide a federated social network. They constitute various profiles of the ActivityPub specification. It is intended that LitePub implementations provide compatibility with ActivityPub, but there are some core behavioral differences.
-- [Diaspora](https://diaspora.github.io/diaspora_federation/index.html) - he purpose of this document is to specify the communications that go on between diaspora* servers (and other servers supporting this protocol)
+- [Litepub](https://litepub.social/litepub/) - LitePub is a suite of protocols which provide a federated social network. They constitute various profiles of the ActivityPub specification. It is intended that LitePub implementations provide compatibility with ActivityPub, but there are some core behavioral differences.
+- [Diaspora](https://diaspora.github.io/diaspora_federation/index.html) - The purpose of this document is to specify the communications that go on between diaspora* servers (and other servers supporting this protocol)
 - [WebMention](https://indieweb.org/Webmention) - Webmention is a web standard for mentions and conversations across the web, a powerful building block that is used for a growing federated network of comments, likes, reposts, and other rich interactions across the decentralized social web.
 - [Zot](https://zotlabs.org/help/en-gb/developer/zot_protocol) - Zot is the revolutionary protocol that powers Hubzilla, providing communications, identity management, and access control across a fully decentralised network of independent websites, often called "the grid". The resulting platform is a robust system that supports privacy and security while enabling the kind of rich web services typically seen only in centralized, proprietary solutions. 
 - [OStatus](http://ostatus.github.io/spec/OStatus%201.0%20Draft%202.html) - OStatus is a minimal specification for distributed status updates or microblogging. Many social applications can be modelled with status updates, however. Practically any software that generates RSS or Atom feeds could be OStatus-enabled. Travel networks, event invitation systems, wikis, photo-sharing systems, social news sites, social music sites, podcasting servers, blogs, version control systems, and general purpose social networks would all be candidates for OStatus use.
@@ -41,4 +47,14 @@ A curated, collaborative list of awesome Fediverse resources
 - [Fediverse.space](https://www.fediverse.space)
 - [Fediverse glossary](https://tilde.town/~petegozz/Fediverse_Glossary/)
 
-## ActivityPub
+## Videos
+
+TODO
+
+## Meetups
+
+TODO
+
+## Slides
+
+TODO
