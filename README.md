@@ -1,6 +1,13 @@
 # Awesome Fediverse 🛰✨😎
 
-A curated, collaborative list of awesome Fediverse resources
+A curated, collaborative list of awesome Fediverse resources for getting ramped up in the Fediverse.
+
+## What's the fediverse?
+
+The Fediverse is a network of social networking applications that communicate with each other. 
+
+- [A friendly introduction to the fediverse](https://medium.com/@VirtualAdept/a-friendly-introduction-to-the-fediverse-5b4ef3f8ed0e)
+- [Wikipedia](https://en.wikipedia.org/wiki/Fediverse)
 
 ## Fediverse products
 
