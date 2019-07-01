@@ -4,12 +4,14 @@ A curated, collaborative list of awesome Fediverse resources for getting ramped 
 
 ## What's the fediverse?
 
-The Fediverse is a network of social networking applications that communicate with each other. 
+The Fediverse is a network of social networking [applications](#applications) that communicate with each other via a set of [protocols](#protocols). The servers hosting an appplication are called an _node_ or instance and can host multiple users.
+
+Here are some resources to get you started:
 
 - [A friendly introduction to the fediverse](https://medium.com/@VirtualAdept/a-friendly-introduction-to-the-fediverse-5b4ef3f8ed0e)
 - [Wikipedia](https://en.wikipedia.org/wiki/Fediverse)
 
-## Fediverse products
+## Applications
 
 These products rule the fediverse.
 
