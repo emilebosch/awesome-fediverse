@@ -21,7 +21,7 @@ These products rule the fediverse.
 - [Matrix](https://matrix.org/)
 - [Prismo](https://gitlab.com/prismosuite/prismo) - A ruby based reddit clone. Federated link aggregation powered by ActivityPub.
 - [Plemora](https://pleroma.social/)
-- [Diaspora](https://diasporafoundation.org/) - Ruby based Facebook clone. 
+- [Diaspora](https://diasporafoundation.org/) - Ruby based Facebook clone.
 - [WriteFriendly](https://writefreely.org/) - Go based publihsing platform. WriteFreely is free and open source software for starting a minimalist, federated blog — or an entire community.
 - [Friendica](http://friendi.ca/) - PHP based facebook clone. Friendica is a decentralised communications platform that integrates social communication. Our platform links to independent social projects and corporate services.
 - [Hubzilla](https://hubzilla.org/)
@@ -35,9 +35,9 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 - [Litepub](https://litepub.social/litepub/) - LitePub is a suite of protocols which provide a federated social network. They constitute various profiles of the ActivityPub specification. It is intended that LitePub implementations provide compatibility with ActivityPub, but there are some core behavioral differences.
 - [Diaspora](https://diaspora.github.io/diaspora_federation/index.html) - The purpose of this document is to specify the communications that go on between diaspora* servers (and other servers supporting this protocol)
 - [WebMention](https://indieweb.org/Webmention) - Webmention is a web standard for mentions and conversations across the web, a powerful building block that is used for a growing federated network of comments, likes, reposts, and other rich interactions across the decentralized social web.
-- [Zot](https://zotlabs.org/help/en-gb/developer/zot_protocol) - Zot is the revolutionary protocol that powers Hubzilla, providing communications, identity management, and access control across a fully decentralised network of independent websites, often called "the grid". The resulting platform is a robust system that supports privacy and security while enabling the kind of rich web services typically seen only in centralized, proprietary solutions. 
+- [Zot](https://zotlabs.org/help/en-gb/developer/zot_protocol) - Zot is the revolutionary protocol that powers Hubzilla, providing communications, identity management, and access control across a fully decentralised network of independent websites, often called "the grid". The resulting platform is a robust system that supports privacy and security while enabling the kind of rich web services typically seen only in centralized, proprietary solutions.
 - [OStatus](http://ostatus.github.io/spec/OStatus%201.0%20Draft%202.html) - OStatus is a minimal specification for distributed status updates or microblogging. Many social applications can be modelled with status updates, however. Practically any software that generates RSS or Atom feeds could be OStatus-enabled. Travel networks, event invitation systems, wikis, photo-sharing systems, social news sites, social music sites, podcasting servers, blogs, version control systems, and general purpose social networks would all be candidates for OStatus use.
-- [Friendica](https://github.com/friendica/friendica/wiki/Protocol) - The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web. 
+- [Friendica](https://github.com/friendica/friendica/wiki/Protocol) - The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web.
 - [Portable Contacts](https://web.archive.org/web/20160426223008/http://portablecontacts.net/draft-spec.html) - The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web. Specifically, it seeks to create a common access pattern and contact schema that any site can provide, well-specified authentication and access rules, standard libraries that can work with any site, and absolutely minimal complexity, with the lightest possible toolchain requirements for developers.
 - [WebFinger](https://github.com/webfinger/) - WebFinger is used to discover information about people or other entities on the Internet that are identified by a URI using standard Hypertext Transfer Protocol (HTTP) methods over a secure transport. A WebFinger resource returns a JavaScript Object Notation (JSON) object describing the entity that is queried. The JSON object is referred to as the JSON Resource Descriptor (JRD).
 - [Salmon](https://en.wikipedia.org/wiki/Salmon_%28protocol%29) - The Salmon Protocol is a message exchange protocol running over HTTP designed to decentralize commentary and annotations made against newsfeed articles such as blog posts. It allows a single discussion thread to be established between the article's origin and any feed reader or "aggregator" which is subscribing to the content. Put simply, that if an article appeared on 3 sites: A (the source), B and C (the aggregates), that members of all 3 sites could see and contribute to a single thread of conversation regardless of site they were viewing from.
@@ -51,10 +51,21 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 
 - [WeDistribute](https://wedistribute.org/)
 - [Fediverse.party](http://fediverse.party/)
-- [The federation](https://the-federation.info)
-- [Fediverse.network]( https://fediverse.network)
+- [The federation instance stats](https://the-federation.info)
+- [Fediverse network stats](https://fediverse.network)
 - [Fediverse.space](https://www.fediverse.space)
 - [Fediverse glossary](https://tilde.town/~petegozz/Fediverse_Glossary/)
+- [Mastodon Instance Picker](https://instances.social)
+
+### Resources
+
+#### Activitypub
+
+- [How to implement a basic ActivityPub server](https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/)
+- [ActivityPub - one protocol to rule them all?](https://schub.io/blog/2018/02/01/activitypub-one-protocol-to-rule-them-all.html)
+- [An ActivityPub Philosophy](https://cjslep.com/c/blog/an-activitypub-philosophy)
+- [On standards divisions and collaboration (or: Why can't the decentralized social web people just get along?)](http://dustycloud.org/blog/on-standards-divisions-collaboration/)
+- [ActivityPub - Final thoughts, one year later.](https://schub.io/blog/2019/01/13/activitypub-final-thoughts-one-year-later.html)
 
 ## Videos
 
