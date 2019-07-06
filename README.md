@@ -48,6 +48,8 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 - [DFRN](https://github.com/friendica/friendica/blob/master/spec/dfrn2.pdf)  - The DFRN (pronounced dee-fern) framework provides the communication basis for a decentralised social network - where cooperating servers share information on your behalf while operating in a web of trust relationships you control. It can provide a “Facebook-like” experience without requiring a central company or server.
 - [WebSub](https://w3c.github.io/websub/) - WebSub provides a common mechanism for communication between publishers of any kind of Web content and their subscribers, based on HTTP web hooks. Subscription requests are relayed through hubs, which validate and verify the request. Hubs then distribute new and updated content to subscribers when it becomes available. WebSub was previously known as PubSubHubbub.
 - [PubSubHubbub](https://github.com/pubsubhubbub/PubSubHubbub) - PubSubHubbub is an open protocol for distributed publish/subscribe communication on the Internet. It generalizes the concept of webhooks and allows data producers and data consumers to work in a decoupled way.
+- [Pubcast](https://github.com/pubcast/pubcast) - An experimental ActivityPub based podcasting platform
+- [Pubgate](https://github.com/autogestion/pubgate) - Lightweight (Gotta Go Fast) ActivityPub federator
 
 ## Sites
 
