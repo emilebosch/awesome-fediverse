@@ -65,6 +65,7 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 
 ##### Talk
 
+- [Wikipedia](https://en.wikipedia.org/wiki/ActivityPub)
 - [What is ActivityPub, and how will it change the internet?](https://jeremydormitzer.com/blog/what-is-activitypub-and-how-will-it-change-the-internet/)
 - [ActivityPub - one protocol to rule them all?](https://schub.io/blog/2018/02/01/activitypub-one-protocol-to-rule-them-all.html)
 - [An ActivityPub Philosophy](https://cjslep.com/c/blog/an-activitypub-philosophy)
@@ -83,7 +84,8 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 ## Videos
 
 - [Lets chat about ActivityPub](https://www.youtube.com/watch?v=g-Fiku7KKBU)
-- [ActivityPub and the federated social networks(https://www.youtube.com/watch?v=li_usG-RmnY)
+- [ActivityPub and the federated social networks](https://www.youtube.com/watch?v=li_usG-RmnY)
+- [Easterhegg 2019 - ActivityPub, the Fediverse, and Everything](https://www.youtube.com/watch?v=kbUEIxSN4aU)
 
 ## Meetups
 
