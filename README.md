@@ -19,6 +19,7 @@ These products rule the fediverse.
 - [PixelFed](https://pixelfed.org/) - PHP based instagram clone. A free and ethical photo sharing platform.
 - [Peertube](https://joinpeertube.org/) - Javascript based youtube clone. A decentralized video hosting network, based on free/libre software
 - [Matrix](https://matrix.org/)
+- [Soundstorm](https://github.com/weathermen/soundstorm.git) Soundstorm is an audio-oriented federated social network that speaks ActivityPub. Users can upload their own music, comment on others' tracks, and like/follow/mention just as in a regular social network. Since it speaks the same language as federated platforms like Mastodon, Soundstorm can send new track upload posts to users' followers on the fediverse, allowing them to gain a greater reach than a conventional social audio service.
 - [Prismo](https://gitlab.com/prismosuite/prismo) - A ruby based reddit clone. Federated link aggregation powered by ActivityPub.
 - [Plemora](https://pleroma.social/)
 - [Diaspora](https://diasporafoundation.org/) - Ruby based Facebook clone.
@@ -26,6 +27,7 @@ These products rule the fediverse.
 - [Friendica](http://friendi.ca/) - PHP based facebook clone. Friendica is a decentralised communications platform that integrates social communication. Our platform links to independent social projects and corporate services.
 - [Hubzilla](https://hubzilla.org/)
 - [FunkWhale](https://funkwhale.audio/) - Python based Grooveshark. A self-hosted tribute to Grooveshark.com.
+- [Cobalt(https://github.com/Gargron/cobalt) - Ruby Video platform
 
 ## Protocols
 
@@ -61,15 +63,27 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 
 #### Activitypub
 
-- [How to implement a basic ActivityPub server](https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/)
+##### Talk
+
+- [What is ActivityPub, and how will it change the internet?](https://jeremydormitzer.com/blog/what-is-activitypub-and-how-will-it-change-the-internet/)
 - [ActivityPub - one protocol to rule them all?](https://schub.io/blog/2018/02/01/activitypub-one-protocol-to-rule-them-all.html)
 - [An ActivityPub Philosophy](https://cjslep.com/c/blog/an-activitypub-philosophy)
 - [On standards divisions and collaboration (or: Why can't the decentralized social web people just get along?)](http://dustycloud.org/blog/on-standards-divisions-collaboration/)
 - [ActivityPub - Final thoughts, one year later.](https://schub.io/blog/2019/01/13/activitypub-final-thoughts-one-year-later.html)
 
+##### Developers
+
+- [How to verify requests - Implememnting an activity inbox - Mastodon](http://blog.joinmastodon.org/2018/07/how-to-make-friends-and-verify-requests/)
+- [How to implement a basic ActivityPub server - Mastodon](https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/)
+
+#### Misc
+
+- [Identity proof of mastodon with keybase](https://keybase.io/blog/keybase-proofs-for-mastodon-and-everyone)
+
 ## Videos
 
-TODO
+- [Lets chat about ActivityPub](https://www.youtube.com/watch?v=g-Fiku7KKBU)
+- [ActivityPub and the federated social networks(https://www.youtube.com/watch?v=li_usG-RmnY)
 
 ## Meetups
 
