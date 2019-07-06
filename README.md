@@ -27,7 +27,7 @@ These products rule the fediverse.
 - [Friendica](http://friendi.ca/) - PHP based facebook clone. Friendica is a decentralised communications platform that integrates social communication. Our platform links to independent social projects and corporate services.
 - [Hubzilla](https://hubzilla.org/)
 - [FunkWhale](https://funkwhale.audio/) - Python based Grooveshark. A self-hosted tribute to Grooveshark.com.
-- [Cobalt(https://github.com/Gargron/cobalt) - Ruby Video platform
+- [Cobalt](https://github.com/Gargron/cobalt) - Ruby Video platform by same owner as Mastodon
 
 ## Protocols
 
