@@ -67,12 +67,14 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 
 ##### Talk
 
-- [Wikipedia](https://en.wikipedia.org/wiki/ActivityPub)
+- [Federation in social networks - Lwn.net](https://lwn.net/Articles/741218/)
+- [Wikipedia Article](https://en.wikipedia.org/wiki/ActivityPub)
 - [What is ActivityPub, and how will it change the internet?](https://jeremydormitzer.com/blog/what-is-activitypub-and-how-will-it-change-the-internet/)
 - [ActivityPub - one protocol to rule them all?](https://schub.io/blog/2018/02/01/activitypub-one-protocol-to-rule-them-all.html)
 - [An ActivityPub Philosophy](https://cjslep.com/c/blog/an-activitypub-philosophy)
 - [On standards divisions and collaboration (or: Why can't the decentralized social web people just get along?)](http://dustycloud.org/blog/on-standards-divisions-collaboration/)
 - [ActivityPub - Final thoughts, one year later.](https://schub.io/blog/2019/01/13/activitypub-final-thoughts-one-year-later.html)
+- [From GNU social to Mastodon](https://thomask.sdf.org/blog/2018/08/19/from-gnu-social-to-mastodon.html)
 
 ##### Developers
 
