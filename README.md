@@ -29,6 +29,7 @@ These products rule the fediverse.
 - [Hubzilla](https://hubzilla.org/)
 - [FunkWhale](https://funkwhale.audio/) - Python based Grooveshark. A self-hosted tribute to Grooveshark.com.
 - [Cobalt](https://github.com/Gargron/cobalt) - Ruby Video platform by same owner as Mastodon
+- [ActivityPub for WordPress](https://wordpress.org/plugins/activitypub/) - An ActivityPub plugin for WordPress.
 
 ## Protocols
 
