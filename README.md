@@ -4,7 +4,7 @@ A curated, collaborative list of awesome Fediverse resources for getting ramped 
 
 ## What's the fediverse?
 
-The Fediverse is a network of social networking [applications](#applications) that communicate with each other via a set of [protocols](#protocols). The servers hosting an appplication are called an _node_ or instance and can host multiple users.
+The Fediverse is a network of social networking [applications](#applications) that communicate with each other via a set of [protocols](#protocols). The servers hosting an application are called an _node_ or instance and can host multiple users.
 
 Here are some resources to get you started:
 
@@ -24,7 +24,7 @@ These products rule the fediverse.
 - [Prismo](https://gitlab.com/prismosuite/prismo) - A ruby based reddit clone. Federated link aggregation powered by ActivityPub.
 - [Plemora](https://pleroma.social/)
 - [Diaspora](https://diasporafoundation.org/) - Ruby based Facebook clone.
-- [WriteFriendly](https://writefreely.org/) - Go based publihsing platform. WriteFreely is free and open source software for starting a minimalist, federated blog — or an entire community.
+- [WriteFriendly](https://writefreely.org/) - Go based publishing platform. WriteFreely is free and open source software for starting a minimalist, federated blog — or an entire community.
 - [Friendica](http://friendi.ca/) - PHP based facebook clone. Friendica is a decentralised communications platform that integrates social communication. Our platform links to independent social projects and corporate services.
 - [Hubzilla](https://hubzilla.org/)
 - [FunkWhale](https://funkwhale.audio/) - Python based Grooveshark. A self-hosted tribute to Grooveshark.com.
@@ -80,7 +80,7 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 
 ##### Developers
 
-- [How to verify requests - Implememnting an activity inbox - Mastodon](http://blog.joinmastodon.org/2018/07/how-to-make-friends-and-verify-requests/)
+- [How to verify requests - Implementing an activity inbox - Mastodon](http://blog.joinmastodon.org/2018/07/how-to-make-friends-and-verify-requests/)
 - [How to implement a basic ActivityPub server - Mastodon](https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/)
 
 #### Misc
