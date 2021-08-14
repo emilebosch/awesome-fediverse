@@ -30,6 +30,7 @@ These products rule the fediverse.
 - [FunkWhale](https://funkwhale.audio/) - Python based Grooveshark. A self-hosted tribute to Grooveshark.com.
 - [Cobalt](https://github.com/Gargron/cobalt) - Ruby Video platform by same owner as Mastodon
 - [ActivityPub for WordPress](https://wordpress.org/plugins/activitypub/) - An ActivityPub plugin for WordPress.
+- [Cactus Comments](https://cactus.chat/) - Federated comment system for the open web built on Matrix.
 
 ## Protocols
 
