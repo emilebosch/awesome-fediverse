@@ -22,7 +22,7 @@ These products rule the fediverse.
 - [Movim](https://movim.eu/) - Social Network based on XMPP
 - [Soundstorm](https://github.com/weathermen/soundstorm.git) Soundstorm is an audio-oriented federated social network that speaks ActivityPub. Users can upload their own music, comment on others' tracks, and like/follow/mention just as in a regular social network. Since it speaks the same language as federated platforms like Mastodon, Soundstorm can send new track upload posts to users' followers on the fediverse, allowing them to gain a greater reach than a conventional social audio service.
 - [Prismo](https://gitlab.com/prismosuite/prismo) - A ruby based reddit clone. Federated link aggregation powered by ActivityPub.
-- [Plemora](https://pleroma.social/)
+- [Pleroma](https://pleroma.social/) - Elixir based Twitter clone. The server side is more lightweight than Mastodon, and the UI is more customizable too.
 - [Diaspora](https://diasporafoundation.org/) - Ruby based Facebook clone.
 - [WriteFriendly](https://writefreely.org/) - Go based publishing platform. WriteFreely is free and open source software for starting a minimalist, federated blog — or an entire community.
 - [Friendica](http://friendi.ca/) - PHP based facebook clone. Friendica is a decentralised communications platform that integrates social communication. Our platform links to independent social projects and corporate services.
