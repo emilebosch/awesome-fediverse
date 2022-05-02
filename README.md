@@ -19,6 +19,7 @@ These products rule the fediverse.
 - [PixelFed](https://pixelfed.org/) - PHP based instagram clone. A free and ethical photo sharing platform.
 - [Peertube](https://joinpeertube.org/) - Javascript based youtube clone. A decentralized video hosting network, based on free/libre software
 - [Matrix](https://matrix.org/)
+- [Lemmy](https://join-lemmy.org/) - Link aggregator, reddit clone. 
 - [Movim](https://movim.eu/) - Social Network based on XMPP
 - [Soundstorm](https://github.com/weathermen/soundstorm.git) Soundstorm is an audio-oriented federated social network that speaks ActivityPub. Users can upload their own music, comment on others' tracks, and like/follow/mention just as in a regular social network. Since it speaks the same language as federated platforms like Mastodon, Soundstorm can send new track upload posts to users' followers on the fediverse, allowing them to gain a greater reach than a conventional social audio service.
 - [Prismo](https://gitlab.com/prismosuite/prismo) - A ruby based reddit clone. Federated link aggregation powered by ActivityPub.
@@ -28,7 +29,7 @@ These products rule the fediverse.
 - [Friendica](http://friendi.ca/) - PHP based facebook clone. Friendica is a decentralised communications platform that integrates social communication. Our platform links to independent social projects and corporate services.
 - [Hubzilla](https://hubzilla.org/)
 - [FunkWhale](https://funkwhale.audio/) - Python based Grooveshark. A self-hosted tribute to Grooveshark.com.
-- [Cobalt](https://github.com/Gargron/cobalt) - Ruby Video platform by same owner as Mastodon
+- [Cobalt](https://github.com/Gargron/cobalt) - Ruby Video platform by same owner as Mastodon (hasnt' been updated in at least 5 years)
 - [ActivityPub for WordPress](https://wordpress.org/plugins/activitypub/) - An ActivityPub plugin for WordPress.
 - [Cactus Comments](https://cactus.chat/) - Federated comment system for the open web built on Matrix.
 
