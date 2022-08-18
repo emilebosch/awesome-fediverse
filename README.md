@@ -32,6 +32,7 @@ These products rule the fediverse.
 - [Cobalt](https://github.com/Gargron/cobalt) - Ruby Video platform by same owner as Mastodon (hasnt' been updated in at least 5 years)
 - [ActivityPub for WordPress](https://wordpress.org/plugins/activitypub/) - An ActivityPub plugin for WordPress.
 - [Cactus Comments](https://cactus.chat/) - Federated comment system for the open web built on Matrix.
+- [Kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform.
 
 ## Protocols
 
