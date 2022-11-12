@@ -64,6 +64,7 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 - [Fediverse.space](https://www.fediverse.space)
 - [Fediverse glossary](https://tilde.town/~petegozz/Fediverse_Glossary/)
 - [Mastodon Instance Picker](https://instances.social)
+- [Fedi.buzz Trends Monitor](https://fedi.buzz)
 
 ### Resources
 
