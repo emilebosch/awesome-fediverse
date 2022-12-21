@@ -55,6 +55,7 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 - [PubSubHubbub](https://github.com/pubsubhubbub/PubSubHubbub) - PubSubHubbub is an open protocol for distributed publish/subscribe communication on the Internet. It generalizes the concept of webhooks and allows data producers and data consumers to work in a decoupled way.
 - [Pubcast](https://github.com/pubcast/pubcast) - An experimental ActivityPub based podcasting platform
 - [Pubgate](https://github.com/autogestion/pubgate) - Lightweight (Gotta Go Fast) ActivityPub federator
+- [Mathematical Mesh](https://github.com/hallambaker/Mathematical-Mesh) Open infrastructure for managing public and private keys. Provides mechanisms for sharing public and private keys for use with any cryptographic application across devices. Provides management of contacts, bookmarks and other personal data. Supports two factor authentication mechanism, end-to-end secure messages and sharing encrypted data with dynamic groups of users.
 
 ## Sites
 
