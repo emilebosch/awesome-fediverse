@@ -16,6 +16,8 @@ Here are some resources to get you started:
 These products rule the fediverse.
 
 - [Mastodon](https://joinmastodon.org) - Ruby based twitter clone - Follow friends and discover new ones among more than 2M people. Publish anything you want: links, pictures, text, video. All on a platform that is community-owned and ad-free.
+  - [Mastodon Glitch Edition (glitch-soc)](https://glitch-soc.github.io/docs/) - a Mastodon fork with additional features such as rich text formatting and local-only toots
+  - [Hometown](https://github.com/hometown-fork/hometown) - a lightweight fork of Mastodon that supports local-only toots and more content types
 - [PixelFed](https://pixelfed.org/) - PHP based instagram clone. A free and ethical photo sharing platform.
 - [Peertube](https://joinpeertube.org/) - Javascript based youtube clone. A decentralized video hosting network, based on free/libre software
 - [Matrix](https://matrix.org/)
@@ -24,8 +26,9 @@ These products rule the fediverse.
 - [Soundstorm](https://github.com/weathermen/soundstorm.git) Soundstorm is an audio-oriented federated social network that speaks ActivityPub. Users can upload their own music, comment on others' tracks, and like/follow/mention just as in a regular social network. Since it speaks the same language as federated platforms like Mastodon, Soundstorm can send new track upload posts to users' followers on the fediverse, allowing them to gain a greater reach than a conventional social audio service.
 - [Prismo](https://gitlab.com/prismosuite/prismo) - A ruby based reddit clone. Federated link aggregation powered by ActivityPub.
 - [Pleroma](https://pleroma.social/) - Elixir based Twitter clone. The server side is more lightweight than Mastodon, and the UI is more customizable too.
+  - [Akkoma](https://akkoma.social/) - a Pleroma fork with more features and a faster pace of development
 - [Diaspora](https://diasporafoundation.org/) - Ruby based Facebook clone.
-- [WriteFriendly](https://writefreely.org/) - Go based publishing platform. WriteFreely is free and open source software for starting a minimalist, federated blog — or an entire community.
+- [WriteFreely](https://writefreely.org/) - Go based publishing platform. WriteFreely is free and open source software for starting a minimalist, federated blog — or an entire community.
 - [Friendica](http://friendi.ca/) - PHP based facebook clone. Friendica is a decentralised communications platform that integrates social communication. Our platform links to independent social projects and corporate services.
 - [Hubzilla](https://hubzilla.org/)
 - [FunkWhale](https://funkwhale.audio/) - Python based Grooveshark. A self-hosted tribute to Grooveshark.com.
@@ -33,6 +36,7 @@ These products rule the fediverse.
 - [ActivityPub for WordPress](https://wordpress.org/plugins/activitypub/) - An ActivityPub plugin for WordPress.
 - [Cactus Comments](https://cactus.chat/) - Federated comment system for the open web built on Matrix.
 - [Epicyon](https://libreserver.org/epicyon/) - ActivityPub server, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.
+- [GotoSocial](https://github.com/superseriousbusiness/gotosocial) - fast and efficient ActivityPub server written in Golang, still in alpha
 
 ## Protocols
 
