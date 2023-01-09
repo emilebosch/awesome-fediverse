@@ -38,6 +38,7 @@ These products rule the fediverse.
 - [Cactus Comments](https://cactus.chat/) - Federated comment system for the open web built on Matrix.
 - [Epicyon](https://libreserver.org/epicyon/) - ActivityPub server, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.
 - [GotoSocial](https://github.com/superseriousbusiness/gotosocial) - fast and efficient ActivityPub server written in Golang, still in alpha
+- [Bookwyrm](https://joinbookwyrm.com) - a federated social network for tracking your reading, talking about books, writing reviews, and discovering what to read next
 
 ## Protocols
 
