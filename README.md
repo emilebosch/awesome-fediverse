@@ -23,7 +23,7 @@ These products rule the fediverse.
 - [Matrix](https://matrix.org/)
 - [Lemmy](https://join-lemmy.org/) - Link aggregator, reddit clone. 
 - [Movim](https://movim.eu/) - Social Network based on XMPP
-- [Soundstorm](https://github.com/weathermen/soundstorm.git) Soundstorm is an audio-oriented federated social network that speaks ActivityPub. Users can upload their own music, comment on others' tracks, and like/follow/mention just as in a regular social network. Since it speaks the same language as federated platforms like Mastodon, Soundstorm can send new track upload posts to users' followers on the fediverse, allowing them to gain a greater reach than a conventional social audio service.
+- [Soundstorm](https://github.com/weathermen/soundstorm.git) Soundstorm is an audio-oriented federated social network that speaks ActivityPub (archived project)
 - [Prismo](https://gitlab.com/prismosuite/prismo) - A ruby based reddit clone. Federated link aggregation powered by ActivityPub.
 - [Pleroma](https://pleroma.social/) - Elixir based Twitter clone. The server side is more lightweight than Mastodon, and the UI is more customizable too.
   - [Akkoma](https://akkoma.social/) - a Pleroma fork with more features and a faster pace of development
@@ -63,10 +63,10 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 
 ## Sites
 
-- [WeDistribute](https://wedistribute.org/)
+- [WeDistribute](http://web.archive.org/web/20220313033858/https://wedistribute.org/) (site archived on 2022-03-13, previously at https://wedistribute.org/)
 - [Fediverse.party](http://fediverse.party/)
 - [The federation instance stats](https://the-federation.info)
-- [Fediverse network stats](https://fediverse.network)
+- [Fediverse network stats](http://web.archive.org/web/20201128074151/https://fediverse.network/) (site archived on 2020-11-28, previously at https://fediverse.network)
 - [Fediverse.space](https://www.fediverse.space)
 - [Fediverse glossary](https://tilde.town/~petegozz/Fediverse_Glossary/)
 - [Mastodon Instance Picker](https://instances.social)
@@ -80,9 +80,9 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 
 - [Federation in social networks - Lwn.net](https://lwn.net/Articles/741218/)
 - [Wikipedia Article](https://en.wikipedia.org/wiki/ActivityPub)
-- [What is ActivityPub, and how will it change the internet?](https://jeremydormitzer.com/blog/what-is-activitypub-and-how-will-it-change-the-internet/)
+- [What is ActivityPub, and how will it change the internet?](https://www.jeremydormitzer.com/blog/what-is-activitypub.html)
 - [ActivityPub - one protocol to rule them all?](https://schub.io/blog/2018/02/01/activitypub-one-protocol-to-rule-them-all.html)
-- [An ActivityPub Philosophy](https://cjslep.com/c/blog/an-activitypub-philosophy)
+- [An ActivityPub Philosophy](http://web.archive.org/web/20201107225934/https://cjslep.com/c/blog/an-activitypub-philosophy) (site archived on 2020-11-07)
 - [On standards divisions and collaboration (or: Why can't the decentralized social web people just get along?)](http://dustycloud.org/blog/on-standards-divisions-collaboration/)
 - [ActivityPub - Final thoughts, one year later.](https://schub.io/blog/2019/01/13/activitypub-final-thoughts-one-year-later.html)
 - [From GNU social to Mastodon](https://thomask.sdf.org/blog/2018/08/19/from-gnu-social-to-mastodon.html)
