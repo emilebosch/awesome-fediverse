@@ -36,6 +36,7 @@ These products rule the fediverse.
 - [ActivityPub for WordPress](https://wordpress.org/plugins/activitypub/) - An ActivityPub plugin for WordPress.
 - [ActivityPub for Drupal](https://www.drupal.org/project/activitypub) - An ActivityPub module for Drupal.
 - [Cactus Comments](https://cactus.chat/) - Federated comment system for the open web built on Matrix.
+- [Kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform.
 - [Epicyon](https://libreserver.org/epicyon/) - ActivityPub server, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.
 - [GotoSocial](https://github.com/superseriousbusiness/gotosocial) - fast and efficient ActivityPub server written in Golang, still in alpha
 - [pub](https://github.com/davecheney/pub) - an ActivityPub host indented for a single actor. To interact with ActivityPub, pub implements the Mastodon api for use with various apps.
