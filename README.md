@@ -4,7 +4,7 @@ A curated, collaborative list of awesome Fediverse resources for getting ramped 
 
 ## What's the fediverse?
 
-The Fediverse is a network of social networking [applications](#applications) that communicate with each other via a set of [protocols](#protocols). The servers hosting an application are called an _node_ or instance and can host multiple users.
+The Fediverse is a network of social networking [applications](#applications) that communicate with each other via a set of [protocols](#protocols). The servers hosting an application are called a _node_ or instance and can host multiple users.
 
 Here are some resources to get you started:
 
@@ -32,7 +32,7 @@ These products rule the fediverse.
 - [Friendica](http://friendi.ca/) - PHP based facebook clone. Friendica is a decentralised communications platform that integrates social communication. Our platform links to independent social projects and corporate services.
 - [Hubzilla](https://hubzilla.org/)
 - [FunkWhale](https://funkwhale.audio/) - Python based Grooveshark. A self-hosted tribute to Grooveshark.com.
-- [Cobalt](https://github.com/Gargron/cobalt) - Ruby Video platform by same owner as Mastodon (hasnt' been updated in at least 5 years)
+- [Cobalt](https://github.com/Gargron/cobalt) - Ruby Video platform by same owner as Mastodon (hasn't been updated in at least 5 years)
 - [ActivityPub for WordPress](https://wordpress.org/plugins/activitypub/) - An ActivityPub plugin for WordPress.
 - [ActivityPub for Drupal](https://www.drupal.org/project/activitypub) - An ActivityPub module for Drupal.
 - [Cactus Comments](https://cactus.chat/) - Federated comment system for the open web built on Matrix.
@@ -53,10 +53,11 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 - [Portable Contacts](https://web.archive.org/web/20160426223008/http://portablecontacts.net/draft-spec.html) - The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web. Specifically, it seeks to create a common access pattern and contact schema that any site can provide, well-specified authentication and access rules, standard libraries that can work with any site, and absolutely minimal complexity, with the lightest possible toolchain requirements for developers.
 - [WebFinger](https://github.com/webfinger/) - WebFinger is used to discover information about people or other entities on the Internet that are identified by a URI using standard Hypertext Transfer Protocol (HTTP) methods over a secure transport. A WebFinger resource returns a JavaScript Object Notation (JSON) object describing the entity that is queried. The JSON object is referred to as the JSON Resource Descriptor (JRD).
 - [Salmon](https://en.wikipedia.org/wiki/Salmon_%28protocol%29) - The Salmon Protocol is a message exchange protocol running over HTTP designed to decentralize commentary and annotations made against newsfeed articles such as blog posts. It allows a single discussion thread to be established between the article's origin and any feed reader or "aggregator" which is subscribing to the content. Put simply, that if an article appeared on 3 sites: A (the source), B and C (the aggregates), that members of all 3 sites could see and contribute to a single thread of conversation regardless of site they were viewing from.
-- [ActivityStreams](http://activitystrea.ms/specs/json/1.0/) - This specification details the serialization of a stream of social activities using the JSON format. Activities are important in that they allow individuals to process the latest news of people and things they care about.
+- [ActivityStreams](https://www.w3.org/TR/activitystreams-core/) - This specification details the serialization of a stream of social activities using the JSON format. Activities are important in that they allow individuals to process the latest news of people and things they care about.
+  - [Original JSON Activity Streams 1.0 Specification](http://activitystrea.ms/specs/json/1.0/) which the official W3C standard utilized.
 - [Magic Signatures](https://cdn.rawgit.com/salmon-protocol/salmon-protocol/master/draft-panzer-magicsig-01.html) - This document defines a lightweight, robust mechanism for digitally signing nearly arbitrary messages, along with a simple public key infrastructure.
 - [DFRN](https://github.com/friendica/friendica/blob/master/spec/dfrn2.pdf)  - The DFRN (pronounced dee-fern) framework provides the communication basis for a decentralised social network - where cooperating servers share information on your behalf while operating in a web of trust relationships you control. It can provide a “Facebook-like” experience without requiring a central company or server.
-- [WebSub](https://w3c.github.io/websub/) - WebSub provides a common mechanism for communication between publishers of any kind of Web content and their subscribers, based on HTTP web hooks. Subscription requests are relayed through hubs, which validate and verify the request. Hubs then distribute new and updated content to subscribers when it becomes available. WebSub was previously known as PubSubHubbub.
+- [WebSub](https://www.w3.org/TR/websub/) - WebSub provides a common mechanism for communication between publishers of any kind of Web content and their subscribers, based on HTTP web hooks. Subscription requests are relayed through hubs, which validate and verify the request. Hubs then distribute new and updated content to subscribers when it becomes available. WebSub was previously known as PubSubHubbub.
 - [PubSubHubbub](https://github.com/pubsubhubbub/PubSubHubbub) - PubSubHubbub is an open protocol for distributed publish/subscribe communication on the Internet. It generalizes the concept of webhooks and allows data producers and data consumers to work in a decoupled way.
 - [Pubcast](https://github.com/pubcast/pubcast) - An experimental ActivityPub based podcasting platform
 - [Pubgate](https://github.com/autogestion/pubgate) - Lightweight (Gotta Go Fast) ActivityPub federator
@@ -66,7 +67,6 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 - [WeDistribute](https://wedistribute.org/)
 - [Fediverse.party](http://fediverse.party/)
 - [The federation instance stats](https://the-federation.info)
-- [Fediverse network stats](https://fediverse.network)
 - [Fediverse.space](https://www.fediverse.space)
 - [Fediverse glossary](https://tilde.town/~petegozz/Fediverse_Glossary/)
 - [Mastodon Instance Picker](https://instances.social)
@@ -80,9 +80,9 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 
 - [Federation in social networks - Lwn.net](https://lwn.net/Articles/741218/)
 - [Wikipedia Article](https://en.wikipedia.org/wiki/ActivityPub)
-- [What is ActivityPub, and how will it change the internet?](https://jeremydormitzer.com/blog/what-is-activitypub-and-how-will-it-change-the-internet/)
+- [What is ActivityPub, and how will it change the internet?](https://web.archive.org/web/20190917160529/https://jeremydormitzer.com/blog/what-is-activitypub-and-how-will-it-change-the-internet/)
 - [ActivityPub - one protocol to rule them all?](https://schub.io/blog/2018/02/01/activitypub-one-protocol-to-rule-them-all.html)
-- [An ActivityPub Philosophy](https://cjslep.com/c/blog/an-activitypub-philosophy)
+- [An ActivityPub Philosophy](https://web.archive.org/web/20201124231343/https://cjslep.com/c/blog/an-activitypub-philosophy)
 - [On standards divisions and collaboration (or: Why can't the decentralized social web people just get along?)](http://dustycloud.org/blog/on-standards-divisions-collaboration/)
 - [ActivityPub - Final thoughts, one year later.](https://schub.io/blog/2019/01/13/activitypub-final-thoughts-one-year-later.html)
 - [From GNU social to Mastodon](https://thomask.sdf.org/blog/2018/08/19/from-gnu-social-to-mastodon.html)
@@ -91,10 +91,6 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 
 - [How to verify requests - Implementing an activity inbox - Mastodon](http://blog.joinmastodon.org/2018/07/how-to-make-friends-and-verify-requests/)
 - [How to implement a basic ActivityPub server - Mastodon](https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/)
-
-#### Misc
-
-- [Identity proof of mastodon with keybase](https://keybase.io/blog/keybase-proofs-for-mastodon-and-everyone)
 
 ## Videos
 
