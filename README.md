@@ -38,6 +38,9 @@ These products rule the fediverse.
 - [Cactus Comments](https://cactus.chat/) - Federated comment system for the open web built on Matrix.
 - [Epicyon](https://libreserver.org/epicyon/) - ActivityPub server, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.
 - [GotoSocial](https://github.com/superseriousbusiness/gotosocial) - fast and efficient ActivityPub server written in Golang, still in alpha
+- [pub](https://github.com/davecheney/pub) - an ActivityPub host indented for a single actor. To interact with ActivityPub, pub implements the Mastodon api for use with various apps.
+- [Takahē](https://github.com/jointakahe/takahe) - A _beta_ Fediverse server for microblogging/"toots", with support for multiple domains and multiple identities
+- [Shuttlecraft](https://github.com/benbrown/shuttlecraft) - an "easy" way to participate in the ActivityPub "Fediverse" and other indie web protocols like RSS
 
 ## Protocols
 
