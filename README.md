@@ -46,7 +46,7 @@ These products rule the fediverse.
   - [Foundkey](https://akkoma.dev/FoundKeyGang/FoundKey) - An enchanced Misskey Fork focusing on impoving on maintainability and behaviour, while also bringing in useful features.
   - [calckey](https://codeberg.org/calckey/calckey) - A greatly enhanced fork of Misskey with better UI/UX, security, features, and more!
  - [Owncast](https://owncast.online/) - A single user live video streaming and chat with activetypub support for following and user verification.
-
+- [pinetta](https://codeberg.org/pinetta/pinetta) - A early pinterest clone prototype writen in python 
 ## Protocols
 
 The fediverse is made up of a bunch of protocols. Below are the most used ones.
