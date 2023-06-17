@@ -21,7 +21,7 @@ These products rule the fediverse.
 - [PixelFed](https://pixelfed.org/) - PHP based instagram clone. A free and ethical photo sharing platform.
 - [Peertube](https://joinpeertube.org/) - Javascript based youtube clone. A decentralized video hosting network, based on free/libre software
 - [Matrix](https://matrix.org/)
-- [Lemmy](https://join-lemmy.org/) - Link aggregator, reddit clone. 
+- [Lemmy](https://join-lemmy.org/) - Link aggregator, reddit clone.
 - [Movim](https://movim.eu/) - Social Network based on XMPP
 - [Soundstorm](https://github.com/weathermen/soundstorm.git) Soundstorm is an audio-oriented federated social network that speaks ActivityPub. Users can upload their own music, comment on others' tracks, and like/follow/mention just as in a regular social network. Since it speaks the same language as federated platforms like Mastodon, Soundstorm can send new track upload posts to users' followers on the fediverse, allowing them to gain a greater reach than a conventional social audio service.
 - [Prismo](https://gitlab.com/prismosuite/prismo) - A ruby based reddit clone. Federated link aggregation powered by ActivityPub.
@@ -39,6 +39,7 @@ These products rule the fediverse.
 - [Kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform.
 - [Epicyon](https://libreserver.org/epicyon/) - ActivityPub server, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.
 - [GotoSocial](https://github.com/superseriousbusiness/gotosocial) - fast and efficient ActivityPub server written in Golang, still in alpha
+- [Bookwyrm](https://joinbookwyrm.com) - a federated social network for tracking your reading, talking about books, writing reviews, and discovering what to read next
 - [pub](https://github.com/davecheney/pub) - an ActivityPub host indented for a single actor. To interact with ActivityPub, pub implements the Mastodon api for use with various apps.
 - [Takahē](https://github.com/jointakahe/takahe) - A _beta_ Fediverse server for microblogging/"toots", with support for multiple domains and multiple identities
 - [Shuttlecraft](https://github.com/benbrown/shuttlecraft) - an "easy" way to participate in the ActivityPub "Fediverse" and other indie web protocols like RSS
@@ -51,7 +52,7 @@ These products rule the fediverse.
 - [Plume](https://joinplu.me/) - Plume is a rust based federated blogging engine.
 - [CastoPod](https://castopod.org/) - CastoPod is a PHP based federated podcasting platform.
 - [GNUSocial](https://www.gnusocial.rocks/) - A PHP based free-softwere social networking platform.
-- [Friendica](https://friendi.ca/) - Friendica is a PHP based federated microbloging platform 
+- [Friendica](https://friendi.ca/) - Friendica is a PHP based federated microbloging platform
 - [Hubzilla](https://hubzilla.org/page/hubzilla/discover) - Hubzilla is a decentralized communication and publishing platform.
 - [Bonfire](https://bonfirenetworks.org/) - Bonfire is a fedirated modular social networking toolkit, writen in elixir.
 - [Mobilizon](https://mobilizon.org) - Mobilizon is a fedirated event planning and group management tool by Framasoft.
