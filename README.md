@@ -49,8 +49,9 @@ These products rule the fediverse.
 - [Pinetta](https://codeberg.org/pinetta/pinetta) - A early pinterest clone prototype writen in python
 - [Nextcloud](https://nextcloud.com/) - A private cloud provider with activitypub and diaspora for sharing, auth & more.
 - [Plume](https://joinplu.me/) - Plume is a rust based federated blogging engine.
-- [CastoPod](https://castopod.org/) - CastoPod is a PHP based federated podcasting platform 
- 
+- [CastoPod](https://castopod.org/) - CastoPod is a PHP based federated podcasting platform.
+- [GNUSocial](https://www.gnusocial.rocks/) - A PHP based free-softwere social networking platform.
+
 ## Protocols
 
 The fediverse is made up of a bunch of protocols. Below are the most used ones.
