@@ -46,8 +46,9 @@ These products rule the fediverse.
   - [Foundkey](https://akkoma.dev/FoundKeyGang/FoundKey) - An enchanced Misskey Fork focusing on impoving on maintainability and behaviour, while also bringing in useful features.
   - [calckey](https://codeberg.org/calckey/calckey) - A greatly enhanced fork of Misskey with better UI/UX, security, features, and more!
  - [Owncast](https://owncast.online/) - A single user live video streaming and chat with activetypub support for following and user verification.
-- [pinetta](https://codeberg.org/pinetta/pinetta) - A early pinterest clone prototype writen in python
-- [nextcloud](https://nextcloud.com/) - A private cloud provider with activitypub and diaspora for sharing, auth & more.
+- [Pinetta](https://codeberg.org/pinetta/pinetta) - A early pinterest clone prototype writen in python
+- [Nextcloud](https://nextcloud.com/) - A private cloud provider with activitypub and diaspora for sharing, auth & more.
+- [Plume](https://joinplu.me/) - Plume is a rust based federated blogging engine.
  
 ## Protocols
 
