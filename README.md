@@ -52,6 +52,8 @@ These products rule the fediverse.
 - [CastoPod](https://castopod.org/) - CastoPod is a PHP based federated podcasting platform.
 - [GNUSocial](https://www.gnusocial.rocks/) - A PHP based free-softwere social networking platform.
 - [Friendica](https://friendi.ca/) - Friendica is a PHP based federated microbloging platform 
+- [Hubzilla](https://hubzilla.org/page/hubzilla/discover) - Hubzilla is a decentralized communication and publishing platform.
+
 
 ## Protocols
 
