@@ -54,7 +54,7 @@ These products rule the fediverse.
 - [Friendica](https://friendi.ca/) - Friendica is a PHP based federated microbloging platform 
 - [Hubzilla](https://hubzilla.org/page/hubzilla/discover) - Hubzilla is a decentralized communication and publishing platform.
 - [Bonfire](https://bonfirenetworks.org/) - Bonfire is a fedirated modular social networking toolkit, writen in elixir.
-
+- [Mobilizon](https://mobilizon.org) - Mobilizon is a fedirated event planning and group management tool by Framasoft.
 ## Protocols
 
 The fediverse is made up of a bunch of protocols. Below are the most used ones.
