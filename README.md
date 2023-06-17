@@ -51,6 +51,7 @@ These products rule the fediverse.
 - [Plume](https://joinplu.me/) - Plume is a rust based federated blogging engine.
 - [CastoPod](https://castopod.org/) - CastoPod is a PHP based federated podcasting platform.
 - [GNUSocial](https://www.gnusocial.rocks/) - A PHP based free-softwere social networking platform.
+- [Friendica](https://friendi.ca/) - Friendica is a PHP based federated microbloging platform 
 
 ## Protocols
 
