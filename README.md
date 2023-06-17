@@ -53,7 +53,7 @@ These products rule the fediverse.
 - [GNUSocial](https://www.gnusocial.rocks/) - A PHP based free-softwere social networking platform.
 - [Friendica](https://friendi.ca/) - Friendica is a PHP based federated microbloging platform 
 - [Hubzilla](https://hubzilla.org/page/hubzilla/discover) - Hubzilla is a decentralized communication and publishing platform.
-
+- [Bonfire](https://bonfirenetworks.org/) - Bonfire is a fedirated modular social networking toolkit, writen in elixir.
 
 ## Protocols
 
