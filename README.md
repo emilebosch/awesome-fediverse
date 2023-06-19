@@ -21,7 +21,7 @@ These products rule the fediverse.
 - [PixelFed](https://pixelfed.org/) - PHP based instagram clone. A free and ethical photo sharing platform.
 - [Peertube](https://joinpeertube.org/) - Javascript based youtube clone. A decentralized video hosting network, based on free/libre software
 - [Matrix](https://matrix.org/)
-- [Lemmy](https://join-lemmy.org/) - Link aggregator, reddit clone. 
+- [Lemmy](https://join-lemmy.org/) - Link aggregator, reddit clone.
 - [Movim](https://movim.eu/) - Social Network based on XMPP
 - [Soundstorm](https://github.com/weathermen/soundstorm.git) Soundstorm is an audio-oriented federated social network that speaks ActivityPub. Users can upload their own music, comment on others' tracks, and like/follow/mention just as in a regular social network. Since it speaks the same language as federated platforms like Mastodon, Soundstorm can send new track upload posts to users' followers on the fediverse, allowing them to gain a greater reach than a conventional social audio service.
 - [Prismo](https://gitlab.com/prismosuite/prismo) - A ruby based reddit clone. Federated link aggregation powered by ActivityPub.
@@ -39,10 +39,23 @@ These products rule the fediverse.
 - [Kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform.
 - [Epicyon](https://libreserver.org/epicyon/) - ActivityPub server, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.
 - [GotoSocial](https://github.com/superseriousbusiness/gotosocial) - fast and efficient ActivityPub server written in Golang, still in alpha
+- [Bookwyrm](https://joinbookwyrm.com) - a federated social network for tracking your reading, talking about books, writing reviews, and discovering what to read next
 - [pub](https://github.com/davecheney/pub) - an ActivityPub host indented for a single actor. To interact with ActivityPub, pub implements the Mastodon api for use with various apps.
 - [Takahē](https://github.com/jointakahe/takahe) - A _beta_ Fediverse server for microblogging/"toots", with support for multiple domains and multiple identities
 - [Shuttlecraft](https://github.com/benbrown/shuttlecraft) - an "easy" way to participate in the ActivityPub "Fediverse" and other indie web protocols like RSS
-
+- [Misskey](https://misskey-hub.net) - An ActivityPub Microbloging platform built with Vue
+  - [Foundkey](https://akkoma.dev/FoundKeyGang/FoundKey) - An enchanced Misskey Fork focusing on impoving on maintainability and behaviour, while also bringing in useful features.
+  - [calckey](https://codeberg.org/calckey/calckey) - A greatly enhanced fork of Misskey with better UI/UX, security, features, and more!
+ - [Owncast](https://owncast.online/) - A single user live video streaming and chat with activetypub support for following and user verification.
+- [Pinetta](https://codeberg.org/pinetta/pinetta) - A early pinterest clone prototype writen in python
+- [Nextcloud](https://nextcloud.com/) - A private cloud provider with activitypub and diaspora for sharing, auth & more.
+- [Plume](https://joinplu.me/) - Plume is a rust based federated blogging engine.
+- [CastoPod](https://castopod.org/) - CastoPod is a PHP based federated podcasting platform.
+- [GNUSocial](https://www.gnusocial.rocks/) - A PHP based free-softwere social networking platform.
+- [Friendica](https://friendi.ca/) - Friendica is a PHP based federated microbloging platform
+- [Hubzilla](https://hubzilla.org/page/hubzilla/discover) - Hubzilla is a decentralized communication and publishing platform.
+- [Bonfire](https://bonfirenetworks.org/) - Bonfire is a fedirated modular social networking toolkit, writen in elixir.
+- [Mobilizon](https://mobilizon.org) - Mobilizon is a fedirated event planning and group management tool by Framasoft.
 ## Protocols
 
 The fediverse is made up of a bunch of protocols. Below are the most used ones.
@@ -53,6 +66,7 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 - [WebMention](https://indieweb.org/Webmention) - Webmention is a web standard for mentions and conversations across the web, a powerful building block that is used for a growing federated network of comments, likes, reposts, and other rich interactions across the decentralized social web.
 - [Zot](https://zotlabs.org/help/en-gb/developer/zot_protocol) - Zot is the revolutionary protocol that powers Hubzilla, providing communications, identity management, and access control across a fully decentralised network of independent websites, often called "the grid". The resulting platform is a robust system that supports privacy and security while enabling the kind of rich web services typically seen only in centralized, proprietary solutions.
 - [OStatus](http://ostatus.github.io/spec/OStatus%201.0%20Draft%202.html) - OStatus is a minimal specification for distributed status updates or microblogging. Many social applications can be modelled with status updates, however. Practically any software that generates RSS or Atom feeds could be OStatus-enabled. Travel networks, event invitation systems, wikis, photo-sharing systems, social news sites, social music sites, podcasting servers, blogs, version control systems, and general purpose social networks would all be candidates for OStatus use.
+- [ForgeFed](https://forgefed.org/) - ForgeFed is an ActivityPub extension set for git forges like gitea and foregejo
 - [Friendica](https://github.com/friendica/friendica/wiki/Protocol) - The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web.
 - [Portable Contacts](https://web.archive.org/web/20160426223008/http://portablecontacts.net/draft-spec.html) - The Portable Contacts specification is designed to make it easier for developers to give their users a secure way to access the address books and friends lists they have built up all over the web. Specifically, it seeks to create a common access pattern and contact schema that any site can provide, well-specified authentication and access rules, standard libraries that can work with any site, and absolutely minimal complexity, with the lightest possible toolchain requirements for developers.
 - [WebFinger](https://github.com/webfinger/) - WebFinger is used to discover information about people or other entities on the Internet that are identified by a URI using standard Hypertext Transfer Protocol (HTTP) methods over a secure transport. A WebFinger resource returns a JavaScript Object Notation (JSON) object describing the entity that is queried. The JSON object is referred to as the JSON Resource Descriptor (JRD).
