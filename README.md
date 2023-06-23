@@ -35,6 +35,7 @@ These products rule the fediverse.
 - [Cobalt](https://github.com/Gargron/cobalt) - Ruby Video platform by same owner as Mastodon (hasn't been updated in at least 5 years)
 - [ActivityPub for WordPress](https://wordpress.org/plugins/activitypub/) - An ActivityPub plugin for WordPress.
 - [ActivityPub for Drupal](https://www.drupal.org/project/activitypub) - An ActivityPub module for Drupal.
+- [ActivityPub for xwiki](https://github.com/xwiki-contrib/application-activitypub) - An ActivityPub plugin for xwiki
 - [Cactus Comments](https://cactus.chat/) - Federated comment system for the open web built on Matrix.
 - [Kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform.
 - [Epicyon](https://libreserver.org/epicyon/) - ActivityPub server, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.
