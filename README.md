@@ -56,6 +56,10 @@ These products rule the fediverse.
 - [Hubzilla](https://hubzilla.org/page/hubzilla/discover) - Hubzilla is a decentralized communication and publishing platform.
 - [Bonfire](https://bonfirenetworks.org/) - Bonfire is a fedirated modular social networking toolkit, writen in elixir.
 - [Mobilizon](https://mobilizon.org) - Mobilizon is a fedirated event planning and group management tool by Framasoft.
+- [Activity Relay](https://github.com/yukimochi/Activity-Relay) - Activity Relay is a powerful customizable ActivityPub relay server written in Go.
+- [Pleroma Relay](https://git.pleroma.social/pleroma/relay) - Pleroma Relay is a generic LitePub message relay, writin in python.
+- [AodeRelay](https://git.asonix.dog/asonix/relay) - AodeRelay is a simple and efficient activitypub relay, writin in rust.
+- [Social Relay](https://github.com/jaywink/social-relay) - Social Relay is a Public post relay for the Diaspora, writin in python. (Archived Project)
 ## Protocols
 
 The fediverse is made up of a bunch of protocols. Below are the most used ones.
