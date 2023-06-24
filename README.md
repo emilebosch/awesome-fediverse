@@ -21,7 +21,6 @@ These products rule the fediverse.
 - [PixelFed](https://pixelfed.org/) - PHP based instagram clone. A free and ethical photo sharing platform.
 - [Peertube](https://joinpeertube.org/) - Javascript based youtube clone. A decentralized video hosting network, based on free/libre software.
   - [Sepia Search](https://sepiasearch.org/) - The offical search engine software for peertube writin in typescript and vuejs, by framasoft
-- [Matrix](https://matrix.org/)
 - [Lemmy](https://join-lemmy.org/) - Link aggregator, reddit clone.
 - [Movim](https://movim.eu/) - Social Network based on XMPP
 - [Soundstorm](https://github.com/weathermen/soundstorm.git) Soundstorm is an audio-oriented federated social network that speaks ActivityPub. Users can upload their own music, comment on others' tracks, and like/follow/mention just as in a regular social network. Since it speaks the same language as federated platforms like Mastodon, Soundstorm can send new track upload posts to users' followers on the fediverse, allowing them to gain a greater reach than a conventional social audio service.
@@ -63,6 +62,9 @@ These products rule the fediverse.
 - [Pleroma Relay](https://git.pleroma.social/pleroma/relay) - Pleroma Relay is a generic LitePub message relay, writin in python.
 - [AodeRelay](https://git.asonix.dog/asonix/relay) - AodeRelay is a simple and efficient activitypub relay, writin in rust.
 - [Social Relay](https://github.com/jaywink/social-relay) - Social Relay is a Public post relay for the Diaspora, writin in python. (Archived Project)
+- [Synapse](https://github.com/matrix-org/synapse/) - Synapse is an open-source Matrix homeserver written in python and twisted
+- [Dendrite](https://github.com/matrix-org/dendrite/) - Dendrite is a open-source second-generation Matrix homeserver written in Go!
+- [Conduit](https://conduit.rs/) - Conduit is a simple, fast and reliable chat server powered by matrix, written in rust.
 ## Protocols
 
 The fediverse is made up of a bunch of protocols. Below are the most used ones.
@@ -86,6 +88,7 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 - [PubSubHubbub](https://github.com/pubsubhubbub/PubSubHubbub) - PubSubHubbub is an open protocol for distributed publish/subscribe communication on the Internet. It generalizes the concept of webhooks and allows data producers and data consumers to work in a decoupled way.
 - [Pubcast](https://github.com/pubcast/pubcast) - An experimental ActivityPub based podcasting platform
 - [Pubgate](https://github.com/autogestion/pubgate) - Lightweight (Gotta Go Fast) ActivityPub federator
+- [Matrix](https://matrix.org/) - A open Protocol for e2ee secured, decentralised communication.
 
 ## Sites
 
