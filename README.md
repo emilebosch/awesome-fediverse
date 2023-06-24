@@ -49,14 +49,14 @@ These products rule the fediverse.
   - [Foundkey](https://akkoma.dev/FoundKeyGang/FoundKey) - An enchanced Misskey Fork focusing on impoving on maintainability and behaviour, while also bringing in useful features.
   - [calckey](https://codeberg.org/calckey/calckey) - A greatly enhanced fork of Misskey with better UI/UX, security, features, and more!
  - [Owncast](https://owncast.online/) - A single user live video streaming and chat with activetypub support for following and user verification.
-- [Pinetta](https://codeberg.org/pinetta/pinetta) - A early pinterest clone prototype writen in python
+- [Pinetta](https://codeberg.org/pinetta/pinetta) - A early pinterest clone prototype written in python
 - [Nextcloud](https://nextcloud.com/) - A private cloud provider with activitypub and diaspora for sharing, auth & more.
 - [Plume](https://joinplu.me/) - Plume is a rust based federated blogging engine.
 - [CastoPod](https://castopod.org/) - CastoPod is a PHP based federated podcasting platform.
 - [GNUSocial](https://www.gnusocial.rocks/) - A PHP based free-softwere social networking platform.
 - [Friendica](https://friendi.ca/) - Friendica is a PHP based federated microbloging platform
 - [Hubzilla](https://hubzilla.org/page/hubzilla/discover) - Hubzilla is a decentralized communication and publishing platform.
-- [Bonfire](https://bonfirenetworks.org/) - Bonfire is a fedirated modular social networking toolkit, writen in elixir.
+- [Bonfire](https://bonfirenetworks.org/) - Bonfire is a fedirated modular social networking toolkit, written in elixir.
 - [Mobilizon](https://mobilizon.org) - Mobilizon is a fedirated event planning and group management tool by Framasoft.
 - [Activity Relay](https://github.com/yukimochi/Activity-Relay) - Activity Relay is a powerful customizable ActivityPub relay server written in Go.
 - [Pleroma Relay](https://git.pleroma.social/pleroma/relay) - Pleroma Relay is a generic LitePub message relay, writin in python.
