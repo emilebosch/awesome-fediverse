@@ -19,7 +19,8 @@ These products rule the fediverse.
   - [Mastodon Glitch Edition (glitch-soc)](https://glitch-soc.github.io/docs/) - a Mastodon fork with additional features such as rich text formatting and local-only toots
   - [Hometown](https://github.com/hometown-fork/hometown) - a lightweight fork of Mastodon that supports local-only toots and more content types
 - [PixelFed](https://pixelfed.org/) - PHP based instagram clone. A free and ethical photo sharing platform.
-- [Peertube](https://joinpeertube.org/) - Javascript based youtube clone. A decentralized video hosting network, based on free/libre software
+- [Peertube](https://joinpeertube.org/) - Javascript based youtube clone. A decentralized video hosting network, based on free/libre software.
+  - [Sepia Search](https://sepiasearch.org/) - The offical search engine software for peertube writin in typescript and vuejs, by framasoft
 - [Matrix](https://matrix.org/)
 - [Lemmy](https://join-lemmy.org/) - Link aggregator, reddit clone.
 - [Movim](https://movim.eu/) - Social Network based on XMPP
