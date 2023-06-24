@@ -119,12 +119,13 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 
 - [How to verify requests - Implementing an activity inbox - Mastodon](http://blog.joinmastodon.org/2018/07/how-to-make-friends-and-verify-requests/)
 - [How to implement a basic ActivityPub server - Mastodon](https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/)
-
+ 
 ## Videos
 
 - [Lets chat about ActivityPub](https://www.youtube.com/watch?v=g-Fiku7KKBU)
 - [ActivityPub and the federated social networks](https://www.youtube.com/watch?v=li_usG-RmnY)
 - [Easterhegg 2019 - ActivityPub, the Fediverse, and Everything](https://www.youtube.com/watch?v=kbUEIxSN4aU)
+- [Decentralized Social Networks vs the Trolls](https://www.youtube.com/watch?v=yZoASOyfvGQ)
 
 ## Meetups
 
