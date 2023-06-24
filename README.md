@@ -61,7 +61,7 @@ These products rule the fediverse.
 - [Activity Relay](https://github.com/yukimochi/Activity-Relay) - Activity Relay is a powerful customizable ActivityPub relay server written in Go.
 - [Pleroma Relay](https://git.pleroma.social/pleroma/relay) - Pleroma Relay is a generic LitePub message relay, writin in python.
 - [AodeRelay](https://git.asonix.dog/asonix/relay) - AodeRelay is a simple and efficient activitypub relay, writin in rust.
-- [Social Relay](https://github.com/jaywink/social-relay) - Social Relay is a Public post relay for the Diaspora, writin in python. (Archived Project)
+- [Social Relay](https://github.com/jaywink/social-relay) - Social Relay is a Public post relay for Diaspora, writin in python. (Archived Project)
 - [Synapse](https://github.com/matrix-org/synapse/) - Synapse is an open-source Matrix homeserver written in python and twisted
 - [Dendrite](https://github.com/matrix-org/dendrite/) - Dendrite is a open-source second-generation Matrix homeserver written in Go!
 - [Conduit](https://conduit.rs/) - Conduit is a simple, fast and reliable chat server powered by matrix, written in rust.
