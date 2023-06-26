@@ -19,8 +19,8 @@ These products rule the fediverse.
   - [Mastodon Glitch Edition (glitch-soc)](https://glitch-soc.github.io/docs/) - a Mastodon fork with additional features such as rich text formatting and local-only toots
   - [Hometown](https://github.com/hometown-fork/hometown) - a lightweight fork of Mastodon that supports local-only toots and more content types
 - [PixelFed](https://pixelfed.org/) - PHP based instagram clone. A free and ethical photo sharing platform.
-- [Peertube](https://joinpeertube.org/) - Javascript based youtube clone. A decentralized video hosting network, based on free/libre software
-- [Matrix](https://matrix.org/)
+- [Peertube](https://joinpeertube.org/) - Javascript based youtube clone. A decentralized video hosting network, based on free/libre software.
+  - [Sepia Search](https://sepiasearch.org/) - The offical search engine software for peertube writin in typescript and vuejs, by framasoft
 - [Lemmy](https://join-lemmy.org/) - Link aggregator, reddit clone.
 - [Movim](https://movim.eu/) - Social Network based on XMPP
 - [Soundstorm](https://github.com/weathermen/soundstorm.git) Soundstorm is an audio-oriented federated social network that speaks ActivityPub. Users can upload their own music, comment on others' tracks, and like/follow/mention just as in a regular social network. Since it speaks the same language as federated platforms like Mastodon, Soundstorm can send new track upload posts to users' followers on the fediverse, allowing them to gain a greater reach than a conventional social audio service.
@@ -35,6 +35,8 @@ These products rule the fediverse.
 - [Cobalt](https://github.com/Gargron/cobalt) - Ruby Video platform by same owner as Mastodon (hasn't been updated in at least 5 years)
 - [ActivityPub for WordPress](https://wordpress.org/plugins/activitypub/) - An ActivityPub plugin for WordPress.
 - [ActivityPub for Drupal](https://www.drupal.org/project/activitypub) - An ActivityPub module for Drupal.
+- [ActivityPub for xwiki](https://github.com/xwiki-contrib/application-activitypub) - An ActivityPub plugin for xwiki
+- [Forgefed for Pagure](https://pagure.io/pagure-forgefed) - Forgefed plugin for pagure.
 - [Cactus Comments](https://cactus.chat/) - Federated comment system for the open web built on Matrix.
 - [Kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform.
 - [Epicyon](https://libreserver.org/epicyon/) - ActivityPub server, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.
@@ -47,15 +49,22 @@ These products rule the fediverse.
   - [Foundkey](https://akkoma.dev/FoundKeyGang/FoundKey) - An enchanced Misskey Fork focusing on impoving on maintainability and behaviour, while also bringing in useful features.
   - [calckey](https://codeberg.org/calckey/calckey) - A greatly enhanced fork of Misskey with better UI/UX, security, features, and more!
  - [Owncast](https://owncast.online/) - A single user live video streaming and chat with activetypub support for following and user verification.
-- [Pinetta](https://codeberg.org/pinetta/pinetta) - A early pinterest clone prototype writen in python
+- [Pinetta](https://codeberg.org/pinetta/pinetta) - A early pinterest clone prototype written in python
 - [Nextcloud](https://nextcloud.com/) - A private cloud provider with activitypub and diaspora for sharing, auth & more.
 - [Plume](https://joinplu.me/) - Plume is a rust based federated blogging engine.
 - [CastoPod](https://castopod.org/) - CastoPod is a PHP based federated podcasting platform.
 - [GNUSocial](https://www.gnusocial.rocks/) - A PHP based free-softwere social networking platform.
 - [Friendica](https://friendi.ca/) - Friendica is a PHP based federated microbloging platform
 - [Hubzilla](https://hubzilla.org/page/hubzilla/discover) - Hubzilla is a decentralized communication and publishing platform.
-- [Bonfire](https://bonfirenetworks.org/) - Bonfire is a fedirated modular social networking toolkit, writen in elixir.
+- [Bonfire](https://bonfirenetworks.org/) - Bonfire is a fedirated modular social networking toolkit, written in elixir.
 - [Mobilizon](https://mobilizon.org) - Mobilizon is a fedirated event planning and group management tool by Framasoft.
+- [Activity Relay](https://github.com/yukimochi/Activity-Relay) - Activity Relay is a powerful customizable ActivityPub relay server written in Go.
+- [Pleroma Relay](https://git.pleroma.social/pleroma/relay) - Pleroma Relay is a generic LitePub message relay, writin in python.
+- [AodeRelay](https://git.asonix.dog/asonix/relay) - AodeRelay is a simple and efficient activitypub relay, writin in rust.
+- [Social Relay](https://github.com/jaywink/social-relay) - Social Relay is a Public post relay for Diaspora, writin in python. (Archived Project)
+- [Synapse](https://github.com/matrix-org/synapse/) - Synapse is an open-source Matrix homeserver written in python and twisted
+- [Dendrite](https://github.com/matrix-org/dendrite/) - Dendrite is a open-source second-generation Matrix homeserver written in Go!
+- [Conduit](https://conduit.rs/) - Conduit is a simple, fast and reliable chat server powered by matrix, written in rust.
 ## Protocols
 
 The fediverse is made up of a bunch of protocols. Below are the most used ones.
@@ -79,6 +88,7 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 - [PubSubHubbub](https://github.com/pubsubhubbub/PubSubHubbub) - PubSubHubbub is an open protocol for distributed publish/subscribe communication on the Internet. It generalizes the concept of webhooks and allows data producers and data consumers to work in a decoupled way.
 - [Pubcast](https://github.com/pubcast/pubcast) - An experimental ActivityPub based podcasting platform
 - [Pubgate](https://github.com/autogestion/pubgate) - Lightweight (Gotta Go Fast) ActivityPub federator
+- [Matrix](https://matrix.org/) - A open Protocol for e2ee secured, decentralised communication.
 
 ## Sites
 
@@ -109,12 +119,13 @@ The fediverse is made up of a bunch of protocols. Below are the most used ones.
 
 - [How to verify requests - Implementing an activity inbox - Mastodon](http://blog.joinmastodon.org/2018/07/how-to-make-friends-and-verify-requests/)
 - [How to implement a basic ActivityPub server - Mastodon](https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/)
-
+ 
 ## Videos
 
 - [Lets chat about ActivityPub](https://www.youtube.com/watch?v=g-Fiku7KKBU)
 - [ActivityPub and the federated social networks](https://www.youtube.com/watch?v=li_usG-RmnY)
 - [Easterhegg 2019 - ActivityPub, the Fediverse, and Everything](https://www.youtube.com/watch?v=kbUEIxSN4aU)
+- [Decentralized Social Networks vs the Trolls](https://www.youtube.com/watch?v=yZoASOyfvGQ)
 
 ## Meetups
 
