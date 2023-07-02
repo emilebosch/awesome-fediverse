@@ -65,6 +65,7 @@ These products rule the fediverse.
 - [Synapse](https://github.com/matrix-org/synapse/) - Synapse is an open-source Matrix homeserver written in python and twisted
 - [Dendrite](https://github.com/matrix-org/dendrite/) - Dendrite is a open-source second-generation Matrix homeserver written in Go!
 - [Conduit](https://conduit.rs/) - Conduit is a simple, fast and reliable chat server powered by matrix, written in rust.
+- [Vidzy](https://vidzy.codeberg.page/) - Vidzy - The free and open source alternative to TikTok.
 ## Protocols
 
 The fediverse is made up of a bunch of protocols. Below are the most used ones.
