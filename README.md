@@ -47,7 +47,7 @@ These products rule the fediverse.
 - [Shuttlecraft](https://github.com/benbrown/shuttlecraft) - an "easy" way to participate in the ActivityPub "Fediverse" and other indie web protocols like RSS
 - [Misskey](https://misskey-hub.net) - An ActivityPub Microbloging platform built with Vue
   - [Foundkey](https://akkoma.dev/FoundKeyGang/FoundKey) - An enchanced Misskey Fork focusing on impoving on maintainability and behaviour, while also bringing in useful features.
-  - [calckey](https://codeberg.org/calckey/calckey) - A greatly enhanced fork of Misskey with better UI/UX, security, features, and more!
+  - [FireFish](https://joinfirefish.org) - A greatly enhanced fork of Misskey with better UI/UX, security, features, and more! (Formerly known as Calckey.)
  - [Owncast](https://owncast.online/) - A single user live video streaming and chat with activetypub support for following and user verification.
 - [Pinetta](https://codeberg.org/pinetta/pinetta) - A early pinterest clone prototype written in python
 - [Nextcloud](https://nextcloud.com/) - A private cloud provider with activitypub and diaspora for sharing, auth & more.
